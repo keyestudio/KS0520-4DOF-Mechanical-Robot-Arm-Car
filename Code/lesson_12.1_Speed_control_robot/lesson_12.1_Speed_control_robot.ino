@@ -16,7 +16,6 @@ void setup() {
   pinMode(BIN2, OUTPUT);
   pinMode(PWMB, OUTPUT);
   stopp();  //stop
-}
 void loop() {
   if (Serial.available() > 0) { //receive Bluetooth signals
     switch (Serial.read()) {
