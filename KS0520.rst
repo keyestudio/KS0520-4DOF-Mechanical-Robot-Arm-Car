@@ -136,11 +136,9 @@ Basic Programming：C language code learning.
    | M3*30MM Dual-pass Copper     | 4    | |image139|                   |
    | Bush                         |      |                              |
    +------------------------------+------+------------------------------+
-   | M3*6MM Round Head Srews      | 26   | |image                       |
-   |                              |      | 140|\ |image141|\ |image142| |
+   | M3*6MM Round Head Srews      | 26   | |image140|\ |image141|       |
    +------------------------------+------+------------------------------+
-   | M3*8MM Round Head Screws     | 21   | |image                       |
-   |                              |      | 143|\ |image144|\ |image145| |
+   | M3*8MM Round Head Screws     | 21   | |image143|\ |image144|       |
    +------------------------------+------+------------------------------+
    | M2.5*10MM Round Head Screws  | 2    | |image146|                   |
    +------------------------------+------+------------------------------+
