@@ -4,7 +4,7 @@
    :caption: KS0520 4DOF Mechanical Robot Arm Car
 
 
-   KS0520.rst
+   docs/KS0520
 
 
 
